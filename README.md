@@ -4,9 +4,11 @@ Despite the fact that coronavirus disease 2019 (COVID-19), caused by severe acut
 
 
 ![image](https://user-images.githubusercontent.com/1555415/190976339-f0fdc381-fa4f-4cc2-a694-54c9348c0bb4.png)
+
 Figure 1. The schematic of ACE2 gene regulation prediction based on GCN model and experimental validation
 
 
 
 ![image](https://user-images.githubusercontent.com/1555415/190976096-3358dd8a-5a1c-4244-a2d6-e963b91549ae.png)
+
 Figure 2. Molecular GCN architecture for ACE2 gene change prediction
