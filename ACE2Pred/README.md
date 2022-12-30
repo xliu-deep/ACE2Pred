@@ -18,8 +18,8 @@ Despite the fact that coronavirus disease 2019 (COVID-19), caused by severe acut
   > prediction and evaluation process
 - plot_atomweight.py
   > plot the atomic weights of indoor air pollutants that contribute the ACE2 gene upregulation
-  > Fragment_contribution_indoor_air_pollutants.csv
 #### Data folder
+  > modelling files
 
 
 
