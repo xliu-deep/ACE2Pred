@@ -11,8 +11,12 @@ Despite the fact that coronavirus disease 2019 (COVID-19), caused by severe acut
 
 ### Data folder 
 - gcn_hyperparametersearch.py
+  > hyperparameter tunning for GCN model
 - gcn_predict.py
+  > 
 - plot_atomweight.py
+  > plot the atomic weights of indoor air pollutants that contribute the ACE2 gene upregulation
+  
 
 
 
