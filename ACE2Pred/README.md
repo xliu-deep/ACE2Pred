@@ -10,9 +10,9 @@ Despite the fact that coronavirus disease 2019 (COVID-19), caused by severe acut
 ![image](https://user-images.githubusercontent.com/1555415/190976096-3358dd8a-5a1c-4244-a2d6-e963b91549ae.png)
 
 ### Data folder 
-- Second item
-- Third item
-- Fourth item
+- gcn_hyperparametersearch.py
+- gcn_predict.py
+- plot_atomweight.py
 
 
 
