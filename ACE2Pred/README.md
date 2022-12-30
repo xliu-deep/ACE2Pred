@@ -9,14 +9,18 @@ Despite the fact that coronavirus disease 2019 (COVID-19), caused by severe acut
 ### Molecular GCN architecture for ACE2 gene change prediction
 ![image](https://user-images.githubusercontent.com/1555415/190976096-3358dd8a-5a1c-4244-a2d6-e963b91549ae.png)
 
-### Data folder 
+#### Model 
+- GCN_final_model.zip
+  > ready-to-use GCN model
 - gcn_hyperparametersearch.py
   > hyperparameter tunning for GCN model
 - gcn_predict.py
-  > 
+  > prediction and evaluation process
 - plot_atomweight.py
   > plot the atomic weights of indoor air pollutants that contribute the ACE2 gene upregulation
-  
+  > Fragment_contribution_indoor_air_pollutants.csv
+#### Data folder
+
 
 
 
